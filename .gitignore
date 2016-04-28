@@ -1,0 +1,9 @@
+*.csv
+*.xls*
+*.swp
+*.pyc
+*.jpg
+*.mat
+*.ini
+*.h5
+*.doc*
